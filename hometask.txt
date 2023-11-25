@@ -1,0 +1,2 @@
+В ветке master было 3 коммита, а потом в неё слили ветку hat, а в ветке demo просто 2 коммита
+В удаленном репо 6 коммитов их комменты init, heat added, boots, README added, dots, fix readme
